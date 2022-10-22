@@ -2,7 +2,7 @@ from tkinter import *
 from math import *
 
 window = Tk()
-window.title("Калькулятор")
+window.title("Calculator")
 
 number = 0
 previous_number = 0
