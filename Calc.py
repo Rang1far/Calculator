@@ -8,7 +8,7 @@ number = 0
 previous_number = 0
 action = ""
 
-# Numbers buttons ----------------
+# Numbers buttons ---------------
 
 def add_digit(digit):
     global number
